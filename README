@@ -1,0 +1,4 @@
+# SimplePlot
+
+Read an Espion ERG export file and plot ERG waveforms.
+From ERG_Report without all the extra flask dependencies.
